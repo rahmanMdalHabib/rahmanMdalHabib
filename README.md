@@ -2,7 +2,7 @@
 ####  frontend web developer
 ![ frontend web developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/471300714_609354632042433_6188263520097904114_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=xTrFZjq9QFMQ7kNvgHKDzJH&_nc_zt=23&_nc_ht=z-p3-scontent.fdac12-1.fna&_nc_gid=AaEhVWdKPKGvk-Nzjg0R2y6&oh=00_AYCNsQWLQyoMoZUn0xKIY_lmjCaHsul0FqBudN8dEgC-aA&oe=6774A6B0)
 
-i'm frontend web developer .my dream is proffesonal
+i'm frontend web developer.my dream is proffesonal web development.i am still learning javaScript
 
 Skills: JS / HTML / CSS
 
